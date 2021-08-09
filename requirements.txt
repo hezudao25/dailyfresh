@@ -182,7 +182,7 @@ python-mimeparse==1.6.0
 pytz==2018.7
 pyviz-comms==0.7.0
 PyWavelets==1.0.1
-pywin32==223
+pywin32==301
 pywinpty==0.5.5
 PyYAML==3.13
 pyzmq==17.1.2
